@@ -14,7 +14,9 @@
 
 ![image](https://github.com/Blackcat-love/Blackcat-love/blob/main/static/images/serial-experiments-lain-disappear.gif)
 
+### 统计
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blackcat-love)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
