@@ -22,7 +22,10 @@
 
 
 
-![image](https://github.com/Blackcat-love/Blackcat-love/blob/main/static/images/serial-experiments-lain-lain.gif)
+
+<p align="center">![image](https://github.com/Blackcat-love/Blackcat-love/blob/main/static/images/serial-experiments-lain-lain.gif)</p>
+
+
 
 
 <p align="center">END</p>
