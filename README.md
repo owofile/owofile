@@ -7,6 +7,8 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-red">
 <img alt="Static Badge" src="https://img.shields.io/badge/jQuery-yellow">
+<img alt="Static Badge" src="https://img.shields.io/badge/MySQL-purple">
+
 
 
 
