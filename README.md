@@ -22,8 +22,8 @@
 
 
 
+![image](https://github.com/Blackcat-love/Blackcat-love/blob/main/static/images/serial-experiments-lain-lain.gif)
 
-https://github.com/Blackcat-love/Blackcat-love/blob/main/static/images/serial-experiments-lain-lain.gif
 
 <p align="center">END</p>
 
