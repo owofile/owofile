@@ -10,16 +10,16 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-purple">
 
 
-
+### Code rating
 
 ![image](https://github.com/Blackcat-love/Blackcat-love/blob/main/static/images/serial-experiments-lain-disappear.gif)
 
-### Code rating
+### Activity Statistics Chart
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blackcat-love&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Blackcat-love)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Activity Statistics Chart
+
 
 
 
