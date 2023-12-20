@@ -23,12 +23,6 @@
 
 
 
-<p align="center">
-  <img src="https://github.com/Blackcat-love/Blackcat-love/blob/main/static/images/serial-experiments-lain-lain.gif" />
-  END
-</p>
-
-
 
 
 
