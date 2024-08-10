@@ -2,8 +2,6 @@
 
 ！[图片]（https://github.com/Blackcat-love/Blackcat-love/blob/main/static/images/serial-experiments-lain-disappear.gif）
 
-！[]（https://raw.githubusercontent.com/Blackcat-love/Blackcat-love/main/dist/github-contribution-grid-snake.svg）
-
 ## 我正在学习的技术 ：books：
 
 #### Software:
