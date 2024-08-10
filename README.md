@@ -1,7 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=5003&pause=1000&color=3340F7&width=435&lines=Hello+Lain;%E6%97%A0%E8%AE%BA%E5%9C%A8%E5%93%AA%EF%BC%8C%E4%BA%BA%E4%B8%8E%E4%BA%BA%E9%83%BD%E5%BD%BC%E6%AD%A4%E7%9B%B8%E8%BF%9E;%E3%81%A9%E3%81%93%E3%81%AB%E3%81%84%E3%81%A6%E3%82%82%E3%80%81%E4%BA%BA%E3%81%AF%E3%81%A4%E3%81%AA%E3%81%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B;No+matter+where+you+are;people+are+connected" alt="Typing SVG" /></a>
 
-![](https://github.com/Blackcat-love/Blackcat-love/blob/main/static/images/serial-experiments-lain-disappear.gif)
+![lain](https://github.com/Blackcat-love/Blackcat-love/blob/main/static/images/lain.gif)
 
+![lain_seria](https://github.com/Blackcat-love/Blackcat-love/blob/main/static/serial-experiments-lain-lain.gif)
 
 ## Studying:
 
