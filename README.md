@@ -4,15 +4,33 @@
       <img src="https://github.com/Blackcat-love/Blackcat-love/blob/main/static/images/lain.gif" alt="lain" style="max-width:100%;">
     </td>
     <td width="50%">
-      <h2>Hello, I'm Tianming :heart: </h2>
-      <p>我是一名独立游戏开发者，我喜欢编程、音乐、美术。我最喜欢的动漫是《刀剑神域》。</p>
-      <p>I am an independent game developer, and I enjoy programming, music, and art. My favorite anime is "Sword Art Online."</p>
-      <p>我很社恐，很少与人交流，不善言辞，我经常沉浸在自己的世界里，虽然幸福，但也很孤独。</p>
-      <p>I have social anxiety and rarely communicate with others. I'm not good at expressing myself verbally and often immerse myself in my own world. Although I am happy, I also feel lonely.</p>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=5003&pause=1000&color=3340F7&width=435&lines=Hello+Lain;%E6%97%A0%E8%AE%BA%E5%9C%A8%E5%93%AA%EF%BC%8C%E4%BA%BA%E4%B8%8E%E4%BA%BA%E9%83%BD%E5%BD%BC%E6%AD%A4%E7%9B%B8%E8%BF%9E;%E3%81%A9%E3%81%93%E3%81%AB%E3%81%84%E3%81%A6%E3%82%82%E3%80%81%E4%BA%BA%E3%81%AF%E3%81%A4%E3%81%AA%E3%81%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B;No+matter+where+you+are;people+are+connected" alt="Typing SVG" /></a>
+      <h3 align="center">
+        <samp>&gt; Hey There!, I am <b><a target="_blank" href="https://shahriarshafin.github.io/">TianMing</a></b></samp>
+      </h3>
+      <br/>
+      <p align="center">
+        <samp>
+          我喜欢编程，音乐，美术
+          <br/>
+          "I am a game developer, and I am currently developing a game titled 'The Sad Cat Can't Hug'."
+        </samp>
+      </p>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=17&duration=4999&pause=1000&color=3340F7&center=true&width=435&lines=Hello+Lain;%E6%97%A0%E8%AE%BA%E5%9C%A8%E5%93%AA%EF%BC%8C%E4%BA%BA%E4%B8%8E%E4%BA%BA%E9%83%BD%E5%BD%BC%E6%AD%A4%E7%9B%B8%E8%BF%9E;%E3%81%A9%E3%81%93%E3%81%AB%E3%81%84%E3%81%A6%E3%82%82%E3%80%81%E4%BA%BA%E3%81%AF%E3%81%A4%E3%81%AA%E3%81%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B;No+matter+where+you+are%2Cpeople+are+connected" alt="Typing SVG" />
+      </a>
+          <p align="right" style="margin-top: 100px;">
+        <a href="https://blackcat-love.github.io/Blackcat-loveBlog/" target="_blank">
+  <img alt="Static Badge" src="https://img.shields.io/badge/blog-%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2-red">
+</a>
+        <br/>
+             <a href="https://x.com/fertilizer_sAsY?s=09" target="_blank">
+        <img src="https://img.shields.io/badge/twitter-%E8%81%94%E7%B3%BB%E6%88%91-red?logo=x&logoWidth=10">
+             </a>
+      </p>
     </td>
   </tr>
 </table>
+
 
 <table>
   <tr>
