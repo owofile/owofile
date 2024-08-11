@@ -13,6 +13,8 @@
           我喜欢编程，音乐，美术
           <br/>
           "I am a game developer, and I am currently developing a game titled 'The Sad Cat Can't Hug'."
+          <br/>
+          This is my little website : <a href="https://thesadcatcanthug.neocities.org/" target="_blank" >Click to enter</a>
         </samp>
       </p>
       <a href="https://git.io/typing-svg">
