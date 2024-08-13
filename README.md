@@ -5,7 +5,7 @@
     </td>
     <td width="50%">
       <h3 align="center">
-        <samp>&gt; Hey There!, I am <b><a target="_blank" href="https://blackcat-love.github.io/Blackcat-loveBlog/">snowx1357</a></b></samp>
+        <samp>&gt; Hey There!, I am <b><a target="_blank" href="https://blackcat-love.github.io/Blackcat-loveBlog/">snow</a></b></samp>
       </h3>
       <br/>
       <p align="center">
