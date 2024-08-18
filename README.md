@@ -10,7 +10,6 @@
       <br/>
       <p align="center">
         <samp>
-          我喜欢编程，音乐，美术
           <br/>
           "I am a game developer, and I am currently developing a game titled 'The Sad Cat Can't Hug'."
           <br/>
