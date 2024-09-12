@@ -21,11 +21,11 @@
       </a>
           <p align="right" style="margin-top: 100px;">
         <a href="https://blackcat-love.github.io/Blackcat-loveBlog/" target="_blank">
-  <img alt="Static Badge" src="https://img.shields.io/badge/blog-%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2-red">
+          blog
 </a>
         <br/>
              <a href="https://x.com/fertilizer_sAsY?s=09" target="_blank">
-        <img src="https://img.shields.io/badge/twitter-%E8%81%94%E7%B3%BB%E6%88%91-red?logo=x&logoWidth=10">
+               Contact me via x
              </a>
       </p>
     </td>
