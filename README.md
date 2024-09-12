@@ -31,6 +31,7 @@
                Contact me via x
                </samp>
              </a>
+            <br/>
             <samp>
               Contact me by email:nanafree@tutamail.com
             </samp>
