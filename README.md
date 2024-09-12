@@ -21,11 +21,15 @@
       </a>
           <p align="right" style="margin-top: 100px;">
         <a href="https://blackcat-love.github.io/Blackcat-loveBlog/" target="_blank">
+          <samp>
           blog
+          </samp>
 </a>
         <br/>
              <a href="https://x.com/fertilizer_sAsY?s=09" target="_blank">
+               <samp>
                Contact me via x
+               </samp>
              </a>
       </p>
     </td>
