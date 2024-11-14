@@ -41,9 +41,14 @@
 </table>
 
 
-<table>
+<table align="center">
   <tr>
-   <img src="https://github.com/Blackcat-love/Blackcat-love/blob/main/static/images/shy-anime.gif" alt="lain" style="max-width:100%;">
+    <td>
+      1
+    </td>
+    <td align="center" >
+       <img src="https://github.com/Blackcat-love/Blackcat-love/blob/main/static/images/TianNiZhuo.gif" alt="lain">
+    </td>
   </tr>
 </table>
 
