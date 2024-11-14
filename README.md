@@ -43,11 +43,8 @@
 
 <table align="center">
   <tr>
-    <td>
-      1
-    </td>
-    <td align="center" >
-       <img src="https://github.com/Blackcat-love/Blackcat-love/blob/main/static/images/TianNiZhuo.gif" alt="lain">
+    <td align="center">
+       <img src="https://github.com/Blackcat-love/Blackcat-love/blob/main/static/images/TianNiZhuo.gif" alt="Tian">
     </td>
   </tr>
 </table>
