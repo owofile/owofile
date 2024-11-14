@@ -43,7 +43,7 @@
 
 <table>
   <tr>
-
+   <img src="https://github.com/Blackcat-love/Blackcat-love/blob/main/static/images/shy-anime.gif" alt="lain" style="max-width:100%;">
   </tr>
 </table>
 
