@@ -26,15 +26,6 @@
           </samp>
 </a>
         <br/>
-             <a href="https://x.com/fertilizer_sAsY?s=09" target="_blank">
-               <samp>
-               Contact me via x
-               </samp>
-             </a>
-            <br/>
-            <samp>
-              Contact me by email:nanafree@tutamail.com
-            </samp>
       </p>
     </td>
   </tr>
