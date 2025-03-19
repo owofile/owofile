@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github.com/Blackcat-love/Blackcat-love/blob/main/static/images/shy-anime.gif" alt="lain" style="max-width:100%;">
+      <img src="https://github.com/Blackcat-love/Blackcat-love/blob/main/static/images/anny-smug-face-anny-fox-smug-face.gif" alt="lain" style="max-width:100%;">
     </td>
     <td width="50%">
       <h3 align="center">
