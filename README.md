@@ -35,7 +35,7 @@
 <table align="center">
   <tr>
     <td align="center">
-       <img src="https://github.com/Blackcat-love/Blackcat-love/blob/main/static/images/shelter-anime.gif" alt="Tian">
+      hello Lain
     </td>
   </tr>
 </table>
