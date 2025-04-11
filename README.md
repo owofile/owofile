@@ -35,7 +35,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      hello Lain
+      [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=owofile)](https://github.com/owofile)
     </td>
   </tr>
 </table>
