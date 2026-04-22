@@ -5,5 +5,5 @@
 </div>
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/owofile/owofile/main/static/images/yume-nikki.gif" alt="Yume Nikki" style="max-width:10%;">
+  <img src="https://raw.githubusercontent.com/owofile/owofile/main/static/images/yume-nikki.gif" alt="Yume Nikki" style="max-width:5%;">
 </p>
